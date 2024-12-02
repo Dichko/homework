@@ -8,3 +8,4 @@ public class Exercise1 {
         printThreeWords();
     }
 }
+
